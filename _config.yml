@@ -126,3 +126,4 @@ exclude:
   - vendor
   - .travis.yml
   - node_modules
+theme: jekyll-theme-midnight
