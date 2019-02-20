@@ -71,10 +71,10 @@ end
 
 ### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  Item 하나
+1.  Item 둘
+1.  Item 셋
+1.  Item 넷
 
 ### And a nested list:
 
