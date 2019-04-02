@@ -15,3 +15,7 @@ https://github.com/holykss/AndroidStringTableGenerator
 
 https://developer88.tistory.com/140
 
+
+- [MVC, MVP, MVVM]
+
+https://tosslab.github.io/android/2015/03/01/01.Android-mvc-mvvm-mvp.html
