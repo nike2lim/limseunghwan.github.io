@@ -1,7 +1,3 @@
-Test
-
-
-#plug in
 
 - [Generate Annotation Templete]
 
