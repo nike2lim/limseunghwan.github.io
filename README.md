@@ -3,7 +3,7 @@ Test
 
 #plug in
 
--[Generate Annotation Templete]
+- [Generate Annotation Templete]
 
 https://plugins.jetbrains.com/plugin/8634-robopojogenerator
 
