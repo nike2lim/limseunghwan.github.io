@@ -24,3 +24,6 @@
     https://medium.com/@joongwon/kotlin-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%95%EB%A6%AC-7681cde920ce
 
     https://velog.io/@lsb156/IntelliJ-Kotlin-Code-Style-%EC%84%A4%EC%A0%95%EB%B2%95
+
+- [DumpSys]
+    http://ganadist.github.io/2018_07_10_dumpsys.html?fbclid=IwAR3sD7HPqCijyXtxKTXw-Pu2Zo_jbj7mfbEhLMMWsYK02A8ZKVHCMGuDRKw
