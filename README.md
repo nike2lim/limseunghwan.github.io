@@ -27,3 +27,16 @@
 
 - [DumpSys]
     http://ganadist.github.io/2018_07_10_dumpsys.html?fbclid=IwAR3sD7HPqCijyXtxKTXw-Pu2Zo_jbj7mfbEhLMMWsYK02A8ZKVHCMGuDRKw
+
+
+hi 
+
+hi [link](https://naver.com)
+
+
+    fun d(msg : String) {
+	   if(BuildConfig.DEBUG) {  
+			Log.d(this::class.java.simpleName, message)  
+	   }
+	}
+   
