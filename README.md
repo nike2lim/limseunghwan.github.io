@@ -1,5 +1,5 @@
 
-- [Generate Annotation Templete]
+- [Generate Annotation Templete Plugin - Android Studio]
 
     https://plugins.jetbrains.com/plugin/8634-robopojogenerator
 
@@ -27,3 +27,6 @@
 
 - [DumpSys]
     http://ganadist.github.io/2018_07_10_dumpsys.html?fbclid=IwAR3sD7HPqCijyXtxKTXw-Pu2Zo_jbj7mfbEhLMMWsYK02A8ZKVHCMGuDRKw
+
+- [해상도]
+    https://zetawiki.com/wiki/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0_%ED%99%94%EB%A9%B4%ED%81%AC%EA%B8%B0
