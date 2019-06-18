@@ -32,5 +32,4 @@
     https://zetawiki.com/wiki/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0_%ED%99%94%EB%A9%B4%ED%81%AC%EA%B8%B0
 
 - [업데이트]
-    
     https://proandroiddev.com/theres-a-new-update-available-75a2c5bda76e
